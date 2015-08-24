@@ -9,7 +9,7 @@
 #import <XCTest/XCTest.h>
 #define EXP_SHORTHAND
 #import "Expecta.h"
-#import "FMDBmigrationManager.h"
+#import "FMDBMigrationManager.h"
 
 static NSString *FMDBApplicationDataDirectory(void)
 {
